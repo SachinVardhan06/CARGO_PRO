@@ -263,7 +263,7 @@ This project is licensed under the MIT License.
 
 For any questions or issues, please contact:
 - Email: careers@cargopro.ai
-- Subject: YourName_SoftwareDevelopment_Internship
+- Subject: SACHIN_VARDHAN_SoftwareDevelopment_Internship
 
 ## 🎯 Assumptions
 
