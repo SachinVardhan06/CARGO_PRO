@@ -1,0 +1,4 @@
+com\cargopro\controller\LoadControllerTest.class
+com\cargopro\service\LoadServiceTest.class
+com\cargopro\service\BookingServiceTest.class
+com\cargopro\controller\BookingControllerTest.class
